@@ -17,8 +17,12 @@ If we have to install node [node](https://reactnative.dev/docs/environment-setup
 ```terminal
 npx create-expo-app -t expo-template-blank-typescript
 ```
-Name the app
-- cd App Name
+- Choose the name of your application
+
+Move to the application
+```
+cd AppName/
+```
 
 check your version
 ``` 
@@ -29,6 +33,8 @@ Initialize the application
 ```
 npx expo start
 ```
+And use 'Ctrl' to go back
+
 
 ## Contributing
 
